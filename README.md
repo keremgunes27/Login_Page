@@ -1,6 +1,12 @@
 # Intro component with sign-up form
 
-![screenshot](https://i.hizliresim.com/li40rho.jpg)
+![screenshot](/assets/img/desktop-design.jpg)
+
+<br>
+
+[Visit Demo](https://login-page-peach.vercel.app/)
+
+<br>
 
 Hello there, <br>
 I put a design I found on the frontendmentor.io site into code to try myself. And then I wanted to share it with you.
@@ -14,11 +20,11 @@ The designs were created to the following widths:
 
 ## Screenshots
 
-![screenshot1](https://i.hizliresim.com/li40rho.jpg)
+![screenshot1](/assets/img/desktop-design.jpg)
 
-![screenshot2](https://i.hizliresim.com/nged6st.jpg)
+![screenshot2](/assets/img/active-states.jpg)
 
-![screenshot3](https://i.hizliresim.com/cwbgxrb.jpg)
+![screenshot3](/assets/img/mobile-design.jpg)
 
 ## Will you buy me a coffee?
 
